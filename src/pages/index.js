@@ -3,7 +3,7 @@ import ParentLayout from "../components/Layout/page"
 
 const App = (props) => {
 	return (
-            <ParentLayout />
+        <ParentLayout />
 	)
 }
 

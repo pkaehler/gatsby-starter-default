@@ -5,7 +5,9 @@ import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.css';
 import pageLinks from './links'
 
-function CustomNavigationBar() {
+const root_folder = []
+
+const CustomNavigationBar = () => {
     return (
       <Navbar bg="light" expand="lg">
         <Container>
@@ -22,7 +24,7 @@ function CustomNavigationBar() {
         </Container>
       </Navbar>
     );
-  }
+}
 
 export default CustomNavigationBar;
   

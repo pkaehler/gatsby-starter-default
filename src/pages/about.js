@@ -12,4 +12,12 @@ const AboutPage = () => {
   )
 }
 
+export const Head = () => (
+  <>
+    <title>About Me</title>
+    <meta name="description" content="this is the about page" />
+  </>
+)
+
+
 export default AboutPage

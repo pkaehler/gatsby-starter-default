@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "first-site",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "my first site in react",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "foobar@boogeyians.com",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "gatsby": "^5.2.0",
